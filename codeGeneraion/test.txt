@@ -1,0 +1,31 @@
+int a[60], b[x];
+
+main() {
+    int a,b,c,d,e,f,j,k,w,m;
+    int k[50-12*22+99];
+    c = a+b*6/4+9-3;
+
+    while(a+m*6<100){
+        for(i=0;i<j+k;i=i+1)
+                if(a>c && k<j+1)
+                {
+                    int w=b[a-c] ;
+                    print(a) ;
+                }
+                elif (a==c || a==b){
+                    print (b) ;
+                     k = 6*c;
+                    }
+                else
+                    print(c) ;
+    }
+    print(d);
+    if(a<b)
+        if(m<n)
+            print(e);
+        else
+            print(f) ;
+
+    c=c+1+(a*2<5 || c<7 && a-1) ;
+}
+
